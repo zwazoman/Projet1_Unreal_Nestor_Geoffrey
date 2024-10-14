@@ -72,3 +72,13 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# exclusions des dossiers spécifiques à votre projet Unreal :
+
+# exclusion du dossier Asset
+Content/Assets/*
+
+# exclusion des dossiers generated
+*/_Generated/*
+
+
